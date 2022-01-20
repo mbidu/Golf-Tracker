@@ -27,10 +27,40 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 
 ![image](https://user-images.githubusercontent.com/84108349/150251264-699cd79e-9c83-44b4-bbda-f95b50437e53.png)
 
-#### The True Score (rightmost column)
-The True Score is calculated using the same formula to calculate a player's handicap.
+#### True Score (rightmost column)
+The True Score is calculated using the same formula used to calculate a player's handicap.
 
-<img src="https://latex.codecogs.com/svg.image?True&space;Score&space;=&space;\frac{Round&space;Score&space;-&space;Course&space;Rating)*113}{Course&space;Slope}" title="True Score = \frac{Round Score - Course Rating)*113}{Course Slope}" />
+The True Score is found in the rightmost column of the Overall Tabs...
+
+
+
+...Or the Personal Pages. The 18-Hole True Score is in the rightmost column....
+
+![tempsnip](https://user-images.githubusercontent.com/84108349/150263814-0a26fdc7-669e-439a-8db7-c69aeb2e575c.png)
+...The 9-Hole True Score is in the 2nd to last column.
+
+
+
+A player's handicap is calculated based on the number of rounds played. 
+
+<img src="https://latex.codecogs.com/svg.image?True&space;Score&space;=&space;\frac{(Round&space;Score&space;-&space;Course&space;Rating)*113}{Course&space;Slope}" title="True Score = \frac{(Round Score - Course Rating)*113}{Course Slope}" />
+
+#### Player Score (rightmost column of 9-Hole Table)
+
+A player's handicap is calculated based on the number of rounds played. 
+
+| Rounds (R) | Lowest __ Scores (L) |
+| ---------- |:--------------------:|
+| 1-2        | 1                    |
+| 3-4        | 2                    |
+| 5-6        | 3                    |
+| 7-8        | 4                    |
+| 9-10       | 5                    |
+| 11-12      | 6                    |
+| 13-14      | 7                    |
+| 15-16      | 8                    |
+| 17-18      | 9                    |
+| 19+        | 10                   |
 
 | Handicap (H) | Max Per Hole |
 | ------------ |:------------:|
