@@ -42,15 +42,25 @@ The True Score is found in the rightmost column of the Overall Tabs...
 
 ![tempsnip](https://user-images.githubusercontent.com/84108349/150264597-3857ea4b-c576-4517-a21d-9ffc2354be19.png)
 
-A player's handicap is calculated based on the number of rounds played. 
+The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds. The formula for the True Score can be seen below.
 
 <img src="https://latex.codecogs.com/svg.image?True&space;Score&space;=&space;\frac{(Round&space;Score&space;-&space;Course&space;Rating)*113}{Course&space;Slope}" title="True Score = \frac{(Round Score - Course Rating)*113}{Course Slope}" />
 
+The True Score is calculated using the main formula used to help calculate a player's handicap.
+
 #### Player Score (rightmost column of 9-Hole Table)
 
-A player's handicap is calculated based on the number of rounds played. 
+The Player Score is calculated using the generic formula used to calculate a player's handicap, just with some added liberties.
 
-| Rounds (R) | Lowest __ Scores (L) |
+A Player Score is calculated based on the 10 best rounds in a player's most recent 20 rounds. The Player Score formula may be seen below.
+
+<img src="https://latex.codecogs.com/svg.image?Player&space;Score&space;=&space;\frac{\sum&space;{Best&space;B&space;Scores&space;in&space;Most&space;Recent&space;R&space;Rounds}}{B}" title="Player Score = \frac{\sum {Best B Scores in Most Recent R Rounds}}{B}" />
+
+    ....where B=10 and R=20
+
+However, if less than 20 rounds have been played, consult the table below to find the value of B.
+
+| Rounds (R) | Best __ Scores (B) |
 | ---------- |:--------------------:|
 | 1-2        | 1                    |
 | 3-4        | 2                    |
@@ -61,7 +71,8 @@ A player's handicap is calculated based on the number of rounds played.
 | 13-14      | 7                    |
 | 15-16      | 8                    |
 | 17-18      | 9                    |
-| 19+        | 10                   |
+| 19         | 10                   |
+
 
 | Handicap (H) | Max Per Hole |
 | ------------ |:------------:|
