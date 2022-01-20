@@ -39,12 +39,12 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds. The **lower** the True Score, the better.
 
 The 18-Hole True Score is linked in the following areas:
-    - Overall(18) - Column AW
-    - Players Pages - Column AT
+- Overall(18) - Column AW
+- Players Pages - Column AT
     
 The 9-Hole True Score is linked in the following areas:
-    - Overall(9) - Column AE
-    - Players Pages - Column BX
+- Overall(9) - Column AE
+- Players Pages - Column BX
 
 The True Score is calculated using the same formula used to calculate a player's handicap. The formula for the True Score can be seen below.
 
