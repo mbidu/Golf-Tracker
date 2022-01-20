@@ -54,7 +54,7 @@ The Player Score is calculated using the generic formula used to calculate a pla
 
 A Player Score is calculated based on the 10 best rounds in a player's most recent 20 rounds. The Player Score formula may be seen below.
 
-<img src="https://latex.codecogs.com/svg.image?Player&space;Score&space;=&space;\frac{\sum&space;{Best&space;B&space;Scores&space;in&space;Most&space;Recent&space;R&space;Rounds}}{B}" title="Player Score = \frac{\sum {Best B Scores in Most Recent R Rounds}}{B}" />
+<img src="https://latex.codecogs.com/svg.image?Player_Score&space;=&space;\frac{\sum&space;{Best_B_Scores_Most_Recent_R_Rounds}}{B}" title="Player_Score = \frac{\sum {Best_B_Scores_Most_Recent_R_Rounds}}{B}" />
 
     ....where B=10 and R=20
 
