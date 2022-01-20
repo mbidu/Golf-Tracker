@@ -82,7 +82,7 @@ Then, the following will be automatically calculated:
 As the player progresses, their career average will be tracked in row 20, along with their yearly average.
 
 #### 9-Hole Rounds Table
-The 9-Hole Rounds Table records every 9-Hole round the player has played. *If an 18-Hole round was played, the front 9 and back 9 of the round are added to this table (not automatically yet).
+The 9-Hole Rounds Table records every 9-Hole round the player has played. *If an 18-Hole round was played, the front 9 and back 9 of the round are added to this table (not automatically yet).*
 
 ![image](https://user-images.githubusercontent.com/84108349/150385843-4ee0ed3c-578e-499f-986b-00084d4940f8.png)
 
