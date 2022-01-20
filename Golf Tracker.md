@@ -27,19 +27,20 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 
 ![image](https://user-images.githubusercontent.com/84108349/150251264-699cd79e-9c83-44b4-bbda-f95b50437e53.png)
 
-#### True Score (rightmost column)
+#### True Score (2nd from last column)
 The True Score is calculated using the same formula used to calculate a player's handicap.
 
 The True Score is found in the rightmost column of the Overall Tabs...
 
+![tempsnip](https://user-images.githubusercontent.com/84108349/150264822-2451d06c-cd2f-4fdf-914d-d7bff4e2fed5.png)
 
+...Or the Personal Pages. The 18-Hole True Score is in the 2nd to last column....
 
-...Or the Personal Pages. The 18-Hole True Score is in the rightmost column....
+![tempsnip](https://user-images.githubusercontent.com/84108349/150264503-1e55466e-7077-4880-a14d-380aca0c3305.png)
 
-![tempsnip](https://user-images.githubusercontent.com/84108349/150263814-0a26fdc7-669e-439a-8db7-c69aeb2e575c.png)
-...The 9-Hole True Score is in the 2nd to last column.
+...The 9-Hole True Score is in the 3rd to last column.
 
-
+![tempsnip](https://user-images.githubusercontent.com/84108349/150264597-3857ea4b-c576-4517-a21d-9ffc2354be19.png)
 
 A player's handicap is calculated based on the number of rounds played. 
 
