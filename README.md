@@ -12,9 +12,7 @@ The Golf Tracker documents the performances of each member of our friend group. 
 ## Legend (Tab 1)
 The Golf Tracker has a legend outlines the colour scheme used within the tracker. Other than the colours used to identify players, the best scores are colder colour.
 
-(Worst)                     (Best)
-
-RED < PINK < ORANGE < GREEN < BLUE
+(Worst)  RED < PINK < ORANGE < GREEN < BLUE  (Best)
 
 ![image](https://user-images.githubusercontent.com/84108349/150245221-af8903b7-c76b-4593-b6d7-0179ce4b54c7.png)
 
