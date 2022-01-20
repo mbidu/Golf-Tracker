@@ -28,7 +28,7 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 ![image](https://user-images.githubusercontent.com/84108349/150251264-699cd79e-9c83-44b4-bbda-f95b50437e53.png)
 
 #### True Score (2nd from last column)
-The True Score is calculated using the same formula used to calculate a player's handicap.
+The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds.
 
 The True Score is found in the rightmost column of the Overall Tabs...
 
@@ -42,19 +42,26 @@ The True Score is found in the rightmost column of the Overall Tabs...
 
 ![tempsnip](https://user-images.githubusercontent.com/84108349/150264597-3857ea4b-c576-4517-a21d-9ffc2354be19.png)
 
-The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds. The formula for the True Score can be seen below.
+The True Score is calculated using the same formula used to calculate a player's handicap. The formula for the True Score can be seen below.
 
 <img src="https://latex.codecogs.com/svg.image?True&space;Score&space;=&space;\frac{(Round&space;Score&space;-&space;Course&space;Rating)*113}{Course&space;Slope}" title="True Score = \frac{(Round Score - Course Rating)*113}{Course Slope}" />
 
 The True Score is calculated using the main formula used to help calculate a player's handicap.
 
 #### Player Score (rightmost column of 9-Hole Table)
+The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner.
 
-The Player Score is calculated using the generic formula used to calculate a player's handicap, just with some added liberties.
+The Player Score may be found in the top left of a Player Page...
 
-A Player Score is calculated based on the 10 best rounds in a player's most recent 20 rounds. The Player Score formula may be seen below.
+![image](https://user-images.githubusercontent.com/84108349/150267241-23823184-7ede-4f00-92d8-240f2e65ec76.png)
 
-<img src="https://latex.codecogs.com/svg.image?Player_Score&space;=&space;\frac{\sum&space;{Best_B_Scores_Most_Recent_R_Rounds}}{B}" title="Player_Score = \frac{\sum {Best_B_Scores_Most_Recent_R_Rounds}}{B}" />
+Or... in the rightmost column of the 9-Hole Table.
+
+![tempsnip](https://user-images.githubusercontent.com/84108349/150267465-c21be888-0c05-4ba5-9331-c29b35a405e7.png)
+
+The Player Score is calculated using the generic formula used to calculate a player's handicap, just with some added liberties. A Player Score is calculated based on the 10 best rounds in a player's most recent 20 rounds. The Player Score formula may be seen below.
+
+<img src="https://latex.codecogs.com/svg.image?Player_Score&space;=&space;\frac{\sum&space;{Best&space;B&space;Scores&space;In&space;Most&space;Recent&space;R&space;Rounds}}{B}" title="Player_Score = \frac{\sum {Best B Scores In Most Recent R Rounds}}{B}" />
 
     ....where B=10 and R=20
 
@@ -73,14 +80,15 @@ However, if less than 20 rounds have been played, consult the table below to fin
 | 17-18      | 9                    |
 | 19         | 10                   |
 
+The player score is then recalculated based on the table below.
 
-| Handicap (H) | Max Per Hole |
-| ------------ |:------------:|
-| H<10         | +2           |
-| 10<H<20      | 7            |
-| 20<H<30      | 8            |
-| 30<H<40      | 9            |
-| 40<H         | 10           |
+| Player Score (P) | Max Per Hole |
+| ---------------- |:------------:|
+| P<10             | +2           |
+| 10<P<20          | 7            |
+| 20<P<30          | 8            |
+| 30<P<40          | 9            |
+| 40<P             | 10           |
 
 ### Personal Pages (Tab 6-15)
   - Tracks the player's rating
