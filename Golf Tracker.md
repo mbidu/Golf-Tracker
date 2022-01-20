@@ -10,6 +10,7 @@ The Golf Tracker has a legend outlines the colour scheme used within the tracker
 
 ![image](https://user-images.githubusercontent.com/84108349/150245221-af8903b7-c76b-4593-b6d7-0179ce4b54c7.png)
 
+
 ### Courses (Tab 2-3)
 The courses that have been played on are document here.
 
@@ -19,6 +20,7 @@ The coloured tees with the corresdoning slope and rating are listed here, along 
 
 
 ![image](https://user-images.githubusercontent.com/84108349/150245637-620589dc-90fe-411d-bbd6-d07da63c92bf.png)
+
 
 ### Overall Leaderboards (Tab 4-5)
 The 18-hole rounds and 9-hole rounds of all players are listed in the corresponding tab. They are both in descending order of the "True Score" (rightmost column) of each player's round. 
@@ -89,6 +91,7 @@ The player score is then recalculated based on the table below.
 | 20<P<30          | 8            |
 | 30<P<40          | 9            |
 | 40<P             | 10           |
+
 
 ### Personal Pages (Tab 6-15)
   - Tracks the player's rating
