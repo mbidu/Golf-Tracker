@@ -3,6 +3,8 @@
 
 Refer to the [Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoeeiqAMxPN1uJgUaPxBWK3X6odDJyIv1k/edit#gid=1193067924).
 
+![image](https://user-images.githubusercontent.com/84108349/150269135-996fe186-c860-42a7-9f0f-bf5f818f8385.png)
+
 The Golf Tracker documents the performances of each member of our friend group. The main goal of the spreadsheet was to demonstrate that we are in fact improving and to add some competition to our golf game.
 
 ### Legend (Tab 1)
