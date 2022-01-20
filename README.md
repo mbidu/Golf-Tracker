@@ -27,24 +27,20 @@ The coloured tees with the corresdoning slope and rating are listed here, along 
 ### Overall Leaderboards (Tab 4-5)
 The 18-hole rounds and 9-hole rounds of all players are listed in the corresponding tab. They are both in descending order of the "True Score" (rightmost column) of each player's round. 
 
-![image](https://user-images.githubusercontent.com/84108349/150250447-d4ed6df0-74f4-437f-afa9-25ddf1e66796.png)
+![image](https://user-images.githubusercontent.com/84108349/150377431-433c1c21-4144-4ff6-9250-6818088efbd7.png)
 
-![image](https://user-images.githubusercontent.com/84108349/150251264-699cd79e-9c83-44b4-bbda-f95b50437e53.png)
 
-#### True Score (2nd from last column)
+
+#### True Score (TrSc)
 The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds.
 
-The True Score is found in the rightmost column of the Overall Tabs...
-
-![tempsnip](https://user-images.githubusercontent.com/84108349/150264822-2451d06c-cd2f-4fdf-914d-d7bff4e2fed5.png)
-
-...Or the Personal Pages. The 18-Hole True Score is in the 2nd to last column....
-
-![tempsnip](https://user-images.githubusercontent.com/84108349/150264503-1e55466e-7077-4880-a14d-380aca0c3305.png)
-
-...The 9-Hole True Score is in the 3rd to last column.
-
-![tempsnip](https://user-images.githubusercontent.com/84108349/150264597-3857ea4b-c576-4517-a21d-9ffc2354be19.png)
+The 18-Hole True Score is linked in the following areas:
+    - Overall(18) - Column AW
+    - Players Pages - Column AT
+    
+The 9-Hole True Score is linked in the following areas:
+    - Overall(9) - Column AE
+    - Players Pages - Column BX
 
 The True Score is calculated using the same formula used to calculate a player's handicap. The formula for the True Score can be seen below.
 
@@ -52,16 +48,13 @@ The True Score is calculated using the same formula used to calculate a player's
 
 The True Score is calculated using the main formula used to help calculate a player's handicap.
 
-#### Player Score (rightmost column of 9-Hole Table)
+#### Player Score (PSc)
 The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner.
 
-The Player Score may be found in the top left of a Player Page...
+The Player Score is calculated and documented in the BZ Column of the 9-Hole Table on a Player Page.  The Player Score may be found in the top left of a Player Page.
 
 ![image](https://user-images.githubusercontent.com/84108349/150268116-f8f6bdd9-785f-4020-a20d-90aefa6e3a44.png)
 
-Or... in the rightmost column of the 9-Hole Table.
-
-![tempsnip](https://user-images.githubusercontent.com/84108349/150267465-c21be888-0c05-4ba5-9331-c29b35a405e7.png)
 
 The Player Score is calculated using the generic formula used to calculate a player's handicap, just with some added liberties. A Player Score is calculated based on the 10 best rounds in a player's most recent 20 rounds. The Player Score formula may be seen below.
 
