@@ -25,11 +25,11 @@ The coloured tees with the corresdoning slope and rating are listed here, along 
 
 
 ### Overall Leaderboards (Tab 4-5)
-The 18-hole rounds and 9-hole rounds of all players are listed in the corresponding tab. They are both in descending order of the "True Score" (rightmost column) of each player's round. 
+The 18-hole rounds and 9-hole rounds of all players are listed in the corresponding tab. They are both in descending order of the "True Score" (TrSc) of each player's round. 
 
-![image](https://user-images.githubusercontent.com/84108349/150377431-433c1c21-4144-4ff6-9250-6818088efbd7.png)
+![image](https://user-images.githubusercontent.com/84108349/150377748-3b63f5e8-32ed-4e67-b3d7-544a010dafe0.png)
 
-
+![image](https://user-images.githubusercontent.com/84108349/150377832-0df20066-20c4-46c4-8c6a-c89460724736.png)
 
 #### True Score (TrSc)
 The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds.
@@ -51,10 +51,9 @@ The True Score is calculated using the main formula used to help calculate a pla
 #### Player Score (PSc)
 The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner.
 
-The Player Score is calculated and documented in the BZ Column of the 9-Hole Table on a Player Page.  The Player Score may be found in the top left of a Player Page.
+The Player Score is calculated and documented in the BZ Column of the 9-Hole Table on a Player Page.  The Player Score history is plotted in the top left of a Player Page.
 
 ![image](https://user-images.githubusercontent.com/84108349/150268116-f8f6bdd9-785f-4020-a20d-90aefa6e3a44.png)
-
 
 The Player Score is calculated using the generic formula used to calculate a player's handicap, just with some added liberties. A Player Score is calculated based on the 10 best rounds in a player's most recent 20 rounds. The Player Score formula may be seen below.
 
@@ -89,7 +88,9 @@ The player score is then recalculated based on the table below.
 
 
 ### Personal Pages (Tab 6-15)
-  - Tracks the player's rating
+Each member of our friend group who golfs has their own player page which...
+  
+  - Tracks the Player's Score
     
     ![image](https://user-images.githubusercontent.com/84108349/150244120-de26b8eb-9195-4268-b6bc-91c3ca6d2d12.png)
   - Tracks their hole scores based on par
