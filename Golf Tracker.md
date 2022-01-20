@@ -30,7 +30,7 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 #### The True Score (rightmost column)
 The True Score is calculated using the same formula to calculate a player's handicap.
 
-<img src="https://latex.codecogs.com/svg.image?\frac{Round&space;Score&space;-&space;Course&space;Rating)*113}{Course&space;Slope}" title="\frac{Round Score - Course Rating)*113}{Course Slope}" />
+<img src="https://latex.codecogs.com/svg.image?True&space;Score&space;=&space;\frac{Round&space;Score&space;-&space;Course&space;Rating)*113}{Course&space;Slope}" title="True Score = \frac{Round Score - Course Rating)*113}{Course Slope}" />
 
 | Handicap (H) | Max Per Hole |
 | ------------ |:------------:|
