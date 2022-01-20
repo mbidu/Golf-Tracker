@@ -7,13 +7,13 @@ Refer to the [Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoe
 
 The Golf Tracker documents the performances of each member of our friend group. The main goal of the spreadsheet was to demonstrate that we are in fact improving and to add some competition to our golf game.
 
-### Legend (Tab 1)
+## Legend (Tab 1)
 The Golf Tracker has a legend outlines the colour scheme used within the tracker.
 
 ![image](https://user-images.githubusercontent.com/84108349/150245221-af8903b7-c76b-4593-b6d7-0179ce4b54c7.png)
 
 
-### Courses (Tab 2-3)
+## Courses (Tab 2-3)
 The courses that have been played on are document here.
 
 The coloured tees with the corresdoning slope and rating are listed here, along with the par for each hole and the last time the course was verrified.
@@ -24,12 +24,12 @@ The coloured tees with the corresdoning slope and rating are listed here, along 
 ![image](https://user-images.githubusercontent.com/84108349/150245637-620589dc-90fe-411d-bbd6-d07da63c92bf.png)
 
 
-### Overall Leaderboards (Tab 4-5)
+## Overall Leaderboards (Tab 4-5)
 The 18-hole rounds and 9-hole rounds of all players are listed in the corresponding tab. They are both in descending order of the "True Score" (TrSc) of each player's round. 
 
-![image](https://user-images.githubusercontent.com/84108349/150377748-3b63f5e8-32ed-4e67-b3d7-544a010dafe0.png)
+![image](https://user-images.githubusercontent.com/84108349/150379329-66896366-81a4-47ec-9586-6aba832f9c56.png)
 
-![image](https://user-images.githubusercontent.com/84108349/150377832-0df20066-20c4-46c4-8c6a-c89460724736.png)
+![image](https://user-images.githubusercontent.com/84108349/150379152-acebefe3-15df-45a6-b41c-b364256ebf12.png)
 
 #### True Score (TrSc)
 The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds.
@@ -48,6 +48,9 @@ The True Score is calculated using the same formula used to calculate a player's
 
 The True Score is calculated using the main formula used to help calculate a player's handicap.
 
+## Personal Pages (Tab 6-15)
+Each member of our friend group who golfs has their own player page detailing their personal stats and rounds.
+  
 #### Player Score (PSc)
 The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner.
 
@@ -87,11 +90,6 @@ The player score is then recalculated based on the table below.
 | 40<P             | 10           |
 
 
-### Personal Pages (Tab 6-15)
-Each member of our friend group who golfs has their own player page which...
-  
-  - Tracks the Player's Score
-    
     ![image](https://user-images.githubusercontent.com/84108349/150244120-de26b8eb-9195-4268-b6bc-91c3ca6d2d12.png)
   - Tracks their hole scores based on par
 
