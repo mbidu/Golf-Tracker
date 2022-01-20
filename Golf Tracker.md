@@ -25,7 +25,7 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 
 ![image](https://user-images.githubusercontent.com/84108349/150250447-d4ed6df0-74f4-437f-afa9-25ddf1e66796.png)
 
-![image](https://user-images.githubusercontent.com/84108349/150250676-de7bc4e6-97a5-42e4-9fa2-1fa38dc29c17.png)
+![image](https://user-images.githubusercontent.com/84108349/150251264-699cd79e-9c83-44b4-bbda-f95b50437e53.png)
 
 #### The True Score (rightmost column)
 The True Score is calculated using the same formula to calculate a player's handicap.
