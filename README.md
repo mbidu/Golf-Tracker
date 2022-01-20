@@ -7,8 +7,12 @@ Refer to the [Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoe
 
 The Golf Tracker documents the performances of each member of our friend group. The main goal of the spreadsheet was to demonstrate that we are in fact improving and to add some competition to our golf game.
 
+
 ## Legend (Tab 1)
-The Golf Tracker has a legend outlines the colour scheme used within the tracker.
+The Golf Tracker has a legend outlines the colour scheme used within the tracker. Other than the colours used to identify players, the best scores are colder colour.
+
+(Worst)                     (Best)
+RED < PINK < ORANGE < GREEN < BLUE
 
 ![image](https://user-images.githubusercontent.com/84108349/150245221-af8903b7-c76b-4593-b6d7-0179ce4b54c7.png)
 
@@ -32,7 +36,7 @@ The 18-hole rounds and 9-hole rounds of all players are listed in the correspond
 ![image](https://user-images.githubusercontent.com/84108349/150379152-acebefe3-15df-45a6-b41c-b364256ebf12.png)
 
 #### True Score (TrSc)
-The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds.
+The True Score considers the score of the round as well as the difficulty of the course, allowing for a more fair comparisson between rounds. The **lower** the True Score, the better.
 
 The 18-Hole True Score is linked in the following areas:
     - Overall(18) - Column AW
@@ -48,13 +52,14 @@ The True Score is calculated using the same formula used to calculate a player's
 
 The True Score is calculated using the main formula used to help calculate a player's handicap.
 
+
 ## Personal Pages (Tab 6-15)
-Each member of our friend group who golfs has their own player page detailing their personal stats and rounds.
+Each member of our friend group has their own player page detailing their personal stats and rounds.
   
 #### Player Score (PSc)
-The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner.
+The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner. The **lower** the Player Score, the better.
 
-The Player Score is calculated and documented in the BZ Column of the 9-Hole Table on a Player Page.  The Player Score history is plotted in the top left of a Player Page.
+The Player Score is calculated and documented in the BZ column of the 9-Hole Table on a Player Page. The current Player Score is the Player Score of latest entry in the 9-Hole Table. The Player Score history is plotted in the top left of a Player Page.
 
 ![image](https://user-images.githubusercontent.com/84108349/150268116-f8f6bdd9-785f-4020-a20d-90aefa6e3a44.png)
 
