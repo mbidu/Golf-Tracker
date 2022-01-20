@@ -3,7 +3,27 @@
 
 Refer to the [Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoeeiqAMxPN1uJgUaPxBWK3X6odDJyIv1k/edit#gid=1193067924).
 
-The tracks individual progress of each friend:
+The Golf Tracker documents the performances of each member of our friend group. The main goal of the spreadsheet was to demonstrate that we are in fact improving and to add some competition to our golf game.
+
+### Legend (Tab 1)
+The Golf Tracker has a legend outlines the colour scheme used within the tracker.
+
+![image](https://user-images.githubusercontent.com/84108349/150245221-af8903b7-c76b-4593-b6d7-0179ce4b54c7.png)
+
+### Courses (Tab 2-3)
+The courses that have been played on are document here.
+
+The coloured tees with the corresdoning slope and rating are listed here, along with the par for each hole and the last time the course was verrified.
+
+![image](https://user-images.githubusercontent.com/84108349/150245718-f11afff6-47b1-423a-99dd-14322677a37a.png)
+
+
+![image](https://user-images.githubusercontent.com/84108349/150245637-620589dc-90fe-411d-bbd6-d07da63c92bf.png)
+
+### Overall Leaderboards (Tab 4-5)
+
+
+### Personal Pages (Tab 6-15)
   - Tracks the player's rating
     
     ![image](https://user-images.githubusercontent.com/84108349/150244120-de26b8eb-9195-4268-b6bc-91c3ca6d2d12.png)
