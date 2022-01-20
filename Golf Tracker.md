@@ -55,7 +55,7 @@ The Player Score allows players to see if they are improving and how they compar
 
 The Player Score may be found in the top left of a Player Page...
 
-![image](https://user-images.githubusercontent.com/84108349/150267241-23823184-7ede-4f00-92d8-240f2e65ec76.png)
+![image](https://user-images.githubusercontent.com/84108349/150268116-f8f6bdd9-785f-4020-a20d-90aefa6e3a44.png)
 
 Or... in the rightmost column of the 9-Hole Table.
 
