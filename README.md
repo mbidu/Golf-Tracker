@@ -1,9 +1,10 @@
 # Golf Tracker
 ## Google Spreadsheet to track the golf scores of my friends.
+### Mackenzie Biduk 2020
 
 Refer to the [Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoeeiqAMxPN1uJgUaPxBWK3X6odDJyIv1k/edit#gid=1193067924).
 
-![image](https://user-images.githubusercontent.com/84108349/150269191-1fe073e2-5b14-452d-bec3-1fcc824958f5.png)
+![image](https://user-images.githubusercontent.com/84108349/150382379-fad6b771-9240-4a8e-8f85-b35c6ec20a51.png)
 
 The Golf Tracker documents the performances of each member of our friend group. The main goal of the spreadsheet was to demonstrate that we are in fact improving and to add some competition to our golf game.
 
@@ -55,7 +56,56 @@ The True Score is calculated using the main formula used to help calculate a pla
 
 ## Personal Pages (Tab 6-15)
 Each member of our friend group has their own player page detailing their personal stats and rounds.
-  
+
+![image](https://user-images.githubusercontent.com/84108349/150382379-fad6b771-9240-4a8e-8f85-b35c6ec20a51.png)
+
+#### 18-Hole Rounds Table
+The 18-Hole Rounds Table records every 18-Hole round the player has played. 
+
+![image](https://user-images.githubusercontent.com/84108349/150385971-f2500fb3-7f90-4806-aebc-d309e7881fba.png)
+
+All formatting for the table is automatic but the player must enter the following:
+    - Course Played (B)
+    - Tee Played From (C)
+    - Rating of the Course (D)
+    - Slope of the Course (E)
+    - Date Played (F)
+    - Score and Par of Each Hole (J-AS)
+
+Then, the following will be automatically calculated:
+    - Course Ranking (A)
+    - Round Score (G)
+    - Round Par (H)
+    - Round Score +/- (I)
+    - True Score (AT)
+    - Round Overall Ranking (AU)
+    
+As the player progresses, their career average will be tracked in row 20, along with their yearly average.
+
+#### 9-Hole Rounds Table
+The 9-Hole Rounds Table records every 9-Hole round the player has played. *If an 18-Hole round was played, the front 9 and back 9 of the round are added to this table (not automatically yet).
+
+![image](https://user-images.githubusercontent.com/84108349/150385843-4ee0ed3c-578e-499f-986b-00084d4940f8.png)
+
+All formatting for the table is automatic but the player must enter the following:
+    - Course Played (AX)
+    - Tee Played From (AY)
+    - Rating of the Course (AZ)
+    - Slope of the Course (BA)
+    - Date Played (BB)
+    - Score and Par of Each Hole (BF-BV)
+
+Then, the following will be automatically calculated:
+    - Course Ranking (AW)
+    - Round Score (BC)
+    - Round Par (BD)
+    - Round Score +/- (BE)
+    - True Score (BX)
+    - Round Overall Ranking (BY)
+    - Player Score (BZ)
+    
+As the player progresses, their career average will be tracked in row 20, along with their yearly average.
+
 #### Player Score (PSc)
 The Player Score allows players to see if they are improving and how they compare to other golfers in an impartial manner. The **lower** the Player Score, the better.
 
@@ -94,17 +144,29 @@ The player score is then recalculated based on the table below.
 | 30<P<40          | 9            |
 | 40<P             | 10           |
 
+#### Hole Performance
+The individual hole performance of the player over their career is depicted in two tables and four pie charts.
 
-    ![image](https://user-images.githubusercontent.com/84108349/150244120-de26b8eb-9195-4268-b6bc-91c3ca6d2d12.png)
-  - Tracks their hole scores based on par
+![image](https://user-images.githubusercontent.com/84108349/150386147-d9d492fd-4362-468a-9be4-9def99e309c2.png)
 
-    ![image](https://user-images.githubusercontent.com/84108349/150244395-9aec0723-8aba-4536-a861-4744d4aa077c.png)
-  - Plots their average round (18-hole and 9-hole)
-  
-    ![image](https://user-images.githubusercontent.com/84108349/150244322-359d883b-ceaa-4c63-a965-3f64a9aa5f52.png)
-  - Tracks player rounds and their averages
-  
-    ![image](https://user-images.githubusercontent.com/84108349/150244586-53f96397-dc3d-430c-84a3-3e762f20a78b.png)
-    
-    ![image](https://user-images.githubusercontent.com/84108349/150244607-c0d7e96a-e930-4e7e-ae90-e145fa872c78.png)
+The individual hole performance is automatically tallied into the top-left table. The rate is calculated automatically in the bottom-left table. The results of the bottom-left table are illustrated in the four pie charts to the right. 
 
+The table is sorted by par (3-5) and hole result. The hole result legend may be found below.
+
+| Hole Result  | Abbreviation | Score |
+| ------------ |:------------:|:------:
+| Eagle        | E            |-2     |
+| Birdie       | Bi           |-1     |
+| Par          | P            | 0     |
+| Bogey        | B            |+1     |
+| Double Bogey | DB           |+2     |
+| Triple Bogey | TB           |+3     |
+| Blow Up Hole | Bl           |+3<    |
+
+#### Round Progression
+The average round progression over a player's career is illustrate for both 18-Hole and 9-Hole rounds. 
+
+Y-axis - Score of the Hole
+X-axis - Hole
+
+![image](https://user-images.githubusercontent.com/84108349/150386199-78a13876-4619-4677-a28d-417e978ef9fb.png)
