@@ -1,7 +1,7 @@
 # Golf Tracker
 ## Google Spreadsheet to track the golf scores of my friends.
 
-[Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoeeiqAMxPN1uJgUaPxBWK3X6odDJyIv1k/edit#gid=1193067924)
+Refer to the [Golf Tracker](https://docs.google.com/spreadsheets/d/1-UuXrx3pnWoeeiqAMxPN1uJgUaPxBWK3X6odDJyIv1k/edit#gid=1193067924).
 
 The tracks individual progress of each friend:
   - Tracks the player's rating
