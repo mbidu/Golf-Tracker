@@ -21,7 +21,24 @@ The coloured tees with the corresdoning slope and rating are listed here, along 
 ![image](https://user-images.githubusercontent.com/84108349/150245637-620589dc-90fe-411d-bbd6-d07da63c92bf.png)
 
 ### Overall Leaderboards (Tab 4-5)
+The 18-hole rounds and 9-hole rounds of all players are listed in the corresponding tab. They are both in descending order of the "True Score" (rightmost column) of each player's round. 
 
+![image](https://user-images.githubusercontent.com/84108349/150250447-d4ed6df0-74f4-437f-afa9-25ddf1e66796.png)
+
+![image](https://user-images.githubusercontent.com/84108349/150250676-de7bc4e6-97a5-42e4-9fa2-1fa38dc29c17.png)
+
+#### The True Score (rightmost column)
+The True Score is calculated using the same formula to calculate a player's handicap.
+
+\frac{(Round Score - Course Rating)*113}{Course Slope}
+
+| Handicap (H) | Max Per Hole |
+| ------------ |:------------:|
+| H<10         | +2           |
+| 10<H<20      | 7            |
+| 20<H<30      | 8            |
+| 30<H<40      | 9            |
+| 40<H         | 10           |
 
 ### Personal Pages (Tab 6-15)
   - Tracks the player's rating
@@ -30,7 +47,7 @@ The coloured tees with the corresdoning slope and rating are listed here, along 
   - Tracks their hole scores based on par
 
     ![image](https://user-images.githubusercontent.com/84108349/150244395-9aec0723-8aba-4536-a861-4744d4aa077c.png)
-  - Plots their average round (9-hole and 18-hole)
+  - Plots their average round (18-hole and 9-hole)
   
     ![image](https://user-images.githubusercontent.com/84108349/150244322-359d883b-ceaa-4c63-a965-3f64a9aa5f52.png)
   - Tracks player rounds and their averages
