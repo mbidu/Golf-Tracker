@@ -165,6 +165,8 @@ The table is sorted by par (3-5) and hole result. The hole result legend may be 
 #### Round Progression
 The average round progression over a player's career is illustrate for both 18-Hole and 9-Hole rounds. 
 
-X-axis - Hole       Y-axis - Score of the Hole
+X-axis - Hole       
+
+Y-axis - Score of the Hole
 
 ![image](https://user-images.githubusercontent.com/84108349/150386199-78a13876-4619-4677-a28d-417e978ef9fb.png)
