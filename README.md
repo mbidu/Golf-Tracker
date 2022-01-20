@@ -64,20 +64,20 @@ The 18-Hole Rounds Table records every 18-Hole round the player has played.
 ![image](https://user-images.githubusercontent.com/84108349/150385971-f2500fb3-7f90-4806-aebc-d309e7881fba.png)
 
 All formatting for the table is automatic but the player must enter the following:
-    - Course Played (B)
-    - Tee Played From (C)
-    - Rating of the Course (D)
-    - Slope of the Course (E)
-    - Date Played (F)
-    - Score and Par of Each Hole (J-AS)
+- Course Played (B)
+- Tee Played From (C)
+- Rating of the Course (D)
+- Slope of the Course (E)
+- Date Played (F)
+- Score and Par of Each Hole (J-AS)
 
 Then, the following will be automatically calculated:
-    - Course Ranking (A)
-    - Round Score (G)
-    - Round Par (H)
-    - Round Score +/- (I)
-    - True Score (AT)
-    - Round Overall Ranking (AU)
+- Course Ranking (A)
+- Round Score (G)
+- Round Par (H)
+- Round Score +/- (I)
+- True Score (AT)
+- Round Overall Ranking (AU)
     
 As the player progresses, their career average will be tracked in row 20, along with their yearly average.
 
@@ -87,21 +87,21 @@ The 9-Hole Rounds Table records every 9-Hole round the player has played. *If an
 ![image](https://user-images.githubusercontent.com/84108349/150385843-4ee0ed3c-578e-499f-986b-00084d4940f8.png)
 
 All formatting for the table is automatic but the player must enter the following:
-    - Course Played (AX)
-    - Tee Played From (AY)
-    - Rating of the Course (AZ)
-    - Slope of the Course (BA)
-    - Date Played (BB)
-    - Score and Par of Each Hole (BF-BV)
+- Course Played (AX)
+- Tee Played From (AY)
+- Rating of the Course (AZ)
+- Slope of the Course (BA)
+- Date Played (BB)
+- Score and Par of Each Hole (BF-BV)
 
 Then, the following will be automatically calculated:
-    - Course Ranking (AW)
-    - Round Score (BC)
-    - Round Par (BD)
-    - Round Score +/- (BE)
-    - True Score (BX)
-    - Round Overall Ranking (BY)
-    - Player Score (BZ)
+- Course Ranking (AW)
+- Round Score (BC)
+- Round Par (BD)
+- Round Score +/- (BE)
+- True Score (BX)
+- Round Overall Ranking (BY)
+- Player Score (BZ)
     
 As the player progresses, their career average will be tracked in row 20, along with their yearly average.
 
